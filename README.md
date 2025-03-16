@@ -1,1 +1,2 @@
-# Cr-nicas-Do-Reino
+# BlogFantasioso
+esse blog está em produção ainda e é um projeto pessoal.
