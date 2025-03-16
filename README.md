@@ -1,1 +1,0 @@
-# Cr-nicas-Do-Reino
