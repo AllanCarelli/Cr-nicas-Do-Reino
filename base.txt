@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Crônicas do Reino**  
 
 ## 💡 **Ideia**  
@@ -10,4 +11,18 @@ Um blog minimalista focado em histórias, mitologias e regras de um idioma fict�
 - **Design Medieval** – Estilo visual inspirado em pergaminhos e manuscritos antigos.  
 
 ## 🎯 **Objetivo**  
+=======
+# **Crônicas do Reino**  
+
+## 💡 **Ideia**  
+Um blog minimalista focado em histórias, mitologias e regras de um idioma fictício.  
+
+## ✨ **Recursos Principais**  
+- **Blog Estático** – Estrutura simples com HTML e CSS, sem necessidade de banco de dados.  
+- **Sistema de Categorias** – Organização dos posts em seções como "Gramática", "Vocabulário" e "Histórias".  
+- **Markdown Simples** – Facilidade para escrever e converter textos antes de publicar.  
+- **Design Medieval** – Estilo visual inspirado em pergaminhos e manuscritos antigos.  
+
+## 🎯 **Objetivo**  
+>>>>>>> 331f4205c5e8ae3c7375e4270cb8744596127425
 Criar um espaço organizado e acessível para armazenar e compartilhar conteúdos sobre um idioma fictício.
